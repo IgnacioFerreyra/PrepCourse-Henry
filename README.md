@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo dos 
+Ignacio Ferreyra
+Este proyecto es una prueba de como crear un repositorio
